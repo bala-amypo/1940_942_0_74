@@ -1,4 +1,4 @@
 package com.example.demo.repository;
-public interface Sturepository extends JpaRepository<>{
+public interface Sturepository extends JpaRepository<Student>{
 
 }
