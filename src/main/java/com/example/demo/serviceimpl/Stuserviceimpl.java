@@ -4,5 +4,5 @@ import com.example.demo.sevice.Stuservice;
 import com.examlpe.demo.service.stuervice
 @service
 public class Stuserviceimpl implements Stuservice{
-    public StusaveStudent student
+    public Stuservice student
 }
