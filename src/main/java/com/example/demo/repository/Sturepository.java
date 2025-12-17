@@ -1,1 +1,4 @@
-package com.example.demo.
+package com.example.demo.repository;
+public interface Sturepository extends JpaRepository<>{
+
+}
