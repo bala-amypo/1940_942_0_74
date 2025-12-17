@@ -47,4 +47,7 @@ public class Stuentity{
         this.email=email;
         this.cgpa=cgpa;
     }
+     public Stuentity(){
+        
+    }
 }
